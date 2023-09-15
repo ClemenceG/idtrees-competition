@@ -1,0 +1,8 @@
+
+        train: ./data/train
+        val: ./data/val
+        test: ./data/test
+
+        nc: 1
+        names: ['tree']
+        

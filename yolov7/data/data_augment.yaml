@@ -1,0 +1,9 @@
+
+        train: ./data/train
+        val: ./data/val
+        test: ./data/test
+
+        nc: 1
+        hyp: hyp.scratch-low.yaml
+        names: ['tree']
+        
